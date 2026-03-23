@@ -87,7 +87,7 @@ Doe het volgende:
 2. Zoek naar persberichten of nieuws over ${COMPETITOR} uit de afgelopen 7 dagen
 3. Analyseer hun huidige website-homepage en positionering
 
-Schrijf een sectie in Markdown (geen ```markdown blokken, gewoon platte Markdown) met:
+Schrijf een sectie in Markdown (geen markdown code blocks, gewoon platte Markdown) met:
 ## ${COMPETITOR}
 
 ### Nieuws afgelopen 7 dagen
